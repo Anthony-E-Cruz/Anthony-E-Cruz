@@ -1,6 +1,6 @@
 Hi!, I'm Anthony 
 
-
+  I'm a software engineer in New York City, this is my Github
 
 <!--
 **Anthony-E-Cruz/Anthony-E-Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
