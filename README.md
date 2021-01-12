@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Anthony-E-Cruz/Anthony-E-Cruz" target="_blank">Anthony</a> <img
-src="https://github.com/Anthony-E-Cruz/images/hi.gif" height="32" /></h1>
-<p>Things I Code With</p>
-<p>
+src="images/hi.gif" height="35" /></h1>
+<p align="center" style="font-size:20px">Things I Code With</p>
+<p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=webpack&logoColor=white"/>
@@ -26,9 +26,20 @@ src="https://github.com/Anthony-E-Cruz/images/hi.gif" height="32" /></h1>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
-  [![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthony-e-cruz)]
+
+  ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthony-e-cruz)
 
   ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-e-cruz&theme=blue-green)
 
 </p>
 
+<hr>
+
+<h2 align="center">📫 Reach Me</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/anthonyecruz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/AECNYC1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:anthonyecruz@gmail.com?subject=Hello%20Anthony,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
