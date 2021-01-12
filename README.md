@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Anthony-E-Cruz/Anthony-E-Cruz" target="_blank">Anthony</a> <img
-src="images/hi.gif" height="35" /></h1>
+src="images/Hi.gif" height="35" /></h1>
 <p align="center" style="font-size:20px">Things I Code With</p>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=webpack&logoColor=white"/>
@@ -26,11 +26,18 @@ src="images/hi.gif" height="35" /></h1>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
+  <hr>
+  <div align="center">
 
   ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthony-e-cruz)
+  
+  </div>
+  <hr>
+  <div align="center">
 
-  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-e-cruz&theme=blue-green)
-
+   ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-e-cruz&theme=blue-green)
+  
+  </div>
 </p>
 
 <hr>
