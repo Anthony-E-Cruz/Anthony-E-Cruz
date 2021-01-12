@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Anthony-E-Cruz/Anthony-E-Cruz" target="_blank">Anthony</a> <img
-src="https://github.com/Anthony-E-Cruz/images/Hi.gif" height="32" /></h1>
+src="https://github.com/Anthony-E-Cruz/images/hi.gif" height="32" /></h1>
 <p>Things I Code With</p>
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=webpack&logoColor=white"/>
