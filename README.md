@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Anthony-E-Cruz/Anthony-E-Cruz" target="_blank">Anthony</a> <img
 src="images/Hi.gif" height="35" /></h1>
 <p align="center">A Full-Stack Developer working in New York City</p>
+<hr>
 <p align="center" style="font-size:25px">Things I Code With</p>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=webpack&logoColor=white"/>
@@ -16,7 +17,6 @@ src="images/Hi.gif" height="35" /></h1>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
