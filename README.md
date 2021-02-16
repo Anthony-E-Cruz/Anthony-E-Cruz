@@ -42,6 +42,8 @@ src="images/Hi.gif" height="35" /></h1>
   </div>
 </p>
 
+<hr>
+
 <div align="center"> 
 <img src="images/octocat.png" height="500" />
 </div>
