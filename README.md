@@ -50,5 +50,5 @@ src="images/Hi.gif" height="35" /></h1>
   <a target="_blank"href="https://twitter.com/AECNYC1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:anthonyecruz@gmail.com?subject=Hello%20Anthony,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<img src="images/octocat.png" height="500" />
+<img align="center" src="images/octocat.png" height="500" />
 <hr>
