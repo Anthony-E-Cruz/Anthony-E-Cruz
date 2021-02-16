@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Anthony-E-Cruz/Anthony-E-Cruz" target="_blank">Anthony</a> <img
 src="images/Hi.gif" height="35" /></h1>
-<p align="center">A Full-Stack Developer working in New York City</p>
+<p align="center">A Full-Stack Developer in New York City</p>
 <hr>
 <p align="center" style="font-size:25px">Things I Code With</p>
 <p align="center">
@@ -42,6 +42,10 @@ src="images/Hi.gif" height="35" /></h1>
   </div>
 </p>
 
+<div align="center"> 
+<img src="images/octocat.png" height="500" />
+</div>
+
 <hr>
 
 <h2 align="center">📫  Reach Me</h2>
@@ -50,7 +54,4 @@ src="images/Hi.gif" height="35" /></h1>
   <a target="_blank"href="https://twitter.com/AECNYC1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:anthonyecruz@gmail.com?subject=Hello%20Anthony,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<div align="center"> 
-<img src="images/octocat.png" height="500" />
-</div>
 <hr>
