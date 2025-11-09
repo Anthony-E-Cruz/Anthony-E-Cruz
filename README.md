@@ -1,59 +1,65 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Anthony-E-Cruz/Anthony-E-Cruz" target="_blank">Anthony</a> <img
-src="images/Hi.gif" height="35" /></h1>
-<p align="center">A Full-Stack Developer in New York City</p>
-<hr>
-<p align="center" style="font-size:25px">Things I Code With</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=webpack&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?style=flat-square&logo=webpack&logoColor=white"/>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=flat-square&logo=webpack&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=webpack&logoColor=white"/>
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=webpack&logoColor=white"/>
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=webpack&logoColor=white"/>
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  
+# Hi, I’m Anthony 👋
+**Full-Stack Developer & Technical Product Lead — New York City**
 
-  <hr>
-  <div align="center">
+---
 
-  ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthony-e-cruz)
-  
-  </div>
-  <hr>
-  <div align="center">
+## What I Do
+I build modern, secure, multi-environment web platforms end-to-end:
+- **Full-stack apps:** Django / Node.js / React / Tailwind
+- **Cloud & DevOps:** AWS (EC2, RDS, S3, ALB, CloudFront), Docker, NGINX
+- **Data & BI:** PostgreSQL, Apache Superset, advanced SQL dashboards
+- **Auth & Security:** Auth0 MFA, automated lifecycle policies
+- **Automation:** GitHub Actions, CodeBuild/CodeDeploy, Airflow
 
-   ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-e-cruz&theme=blue-green)
-  
-  </div>
-</p>
+---
 
-<hr>
+## Major Projects & Accomplishments
+- **Enterprise Platform Modernization** — Migrated legacy tools into modular web apps (Django + React + Tailwind + Docker) across **Prod/Stage/QA/Dev** on AWS with proper IaC and environment isolation.
+- **Analytics Infrastructure Deployment** — Implemented **Apache Superset** with NGINX reverse proxy, HTTPS via Let’s Encrypt, and RDS schemas for secure cloud analytics.
+- **CI/CD & DevOps Automation** — Built end-to-end pipelines using **GitHub Actions**, **CodeBuild/CodeDeploy**, and **Terraform** for containerized services and blue/green deploys.
+- **Identity & Access Automation** — Designed **Auth0** login flows: MFA, daily compliance checks, automated user deactivation, and password-age resets.
+- **Workflow Orchestration** — Self-hosted **Apache Airflow** on EC2 with DAGs in S3 for scheduled jobs, reporting, and data pipeline monitoring.
+- **Database Migration & Schema Engineering** — Migrated Superset/Postgres from containers to **AWS RDS** with schema restructuring (e.g., audit logs, inventory, org dashboards).
+- **Integrated Payment Systems** — Built multi-currency payment/refund flows (Stripe, dLocal) with webhook processing and partner-specific logic.
+- **Dynamic Email Systems** — Shipped multi-language **SendGrid/SparkPost** templates for invoices, alerts, and partner communications.
+- **Security & Token Management** — Implemented GitHub token rotation, IAM-scoped deploy roles, and secret management strategies.
 
-<div align="center"> 
-<img src="images/octocat.png" height="500" />
-</div>
+---
 
-<hr>
+## 🧠 Skills
+**Languages:** Python, JavaScript/TypeScript, SQL, HTML, CSS  
+**Frameworks:** Django, FastAPI, Node.js, Express, React, Redux, Tailwind  
+**Data:** PostgreSQL, JSONB, D3.js (Visualization), QuickBooks API  
+**Cloud & DevOps:** AWS (EC2, RDS, S3, ALB/ELB, CloudFront, ACM), Docker, NGINX, Terraform, GitHub Actions, CodeBuild, CodeDeploy  
+**Auth & Email:** Auth0 (MFA, Actions), SendGrid, SparkPost  
+**Automation & BI:** Apache Airflow, Apache Superset
 
-<h2 align="center">📫  Reach Me</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/anthonyecruz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/AECNYC1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:anthonyecruz@gmail.com?subject=Hello%20Anthony,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<hr>
+---
+
+## 🎓 Credentials & Certifications
+- **AWS Cloud Practitioner**
+- **Infrastructure-as-Code (Terraform)** — Modular EC2/RDS/ALB deployments
+- **Security & Compliance** — MFA, access control automation, environment isolation
+
+---
+
+## 🌟 Recent Highlights
+- Centralized **i18n & multi-currency** formatting across apps (dates, numbers, currency)
+- Built **SQL dashboards** for user activity, financial KPIs, and operational metrics
+- Deployed **Superset** under a custom domain with NGINX TLS and strict CSP/HSTS policies
+
+---
+
+## ⚙️ Tech I Use
+`JavaScript` · `TypeScript` · `React` · `Redux` · `Node.js` · `Express` · `Python` · `Django` · `FastAPI` · `PostgreSQL` · `Docker` · `NGINX` · `AWS (EC2, RDS, S3, ALB, CloudFront)` · `Terraform` · `Auth0` · `Airflow` · `Superset` · `SendGrid` · `SparkPost` · `D3.js` · `GitHub Actions`
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyecruz/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AECNYC1)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anthonyecruz@gmail.com)
+
+---
+
+> *Available for select consulting and build-outs.*
